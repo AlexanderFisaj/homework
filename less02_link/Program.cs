@@ -10,14 +10,35 @@
 
 Выходные данные
 В выходной файл OUTPUT.TXT выведите целое число – значение второго максимума. */
-
+Console.WriteLine($"Введите последовательность чисел \n(минимальное количество 2 без учета нуля). \nЗавершите ввод нулем.");
+Console.WriteLine();
 Console.Write("Введите число: ");
 int n = Convert.ToInt32(Console.ReadLine());
-int maxim = n;
-int next_maxim = 0;
+Console.WriteLine();
+
+while (n == 0)
+{
+    Console.WriteLine($"Это число не может быть нулем! \nПовторите ввод!");
+    Console.Write("Введите число: ");
+    n = Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine();
+}
+
 
 Console.Write("Введите следующее число: ");
 int m = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine();
+
+while (m == 0)
+{
+    Console.WriteLine($"Это число не может быть нулем! \nПовторите ввод!");
+    Console.Write("Введите следующее число: ");
+    m = Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine();
+}
+
+int maxim = n;
+int next_maxim = 0;
 
 while (m != 0)
 {
@@ -28,6 +49,6 @@ while (m != 0)
     }
         Console.Write("Введите следующее число: ");
         m = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine();
 }
-
 Console.WriteLine($"Второе максимальное число: {next_maxim}");
