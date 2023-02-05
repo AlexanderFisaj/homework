@@ -1,0 +1,15 @@
+E:\GB\programming\homework\less02_resk10\bin\Debug\net6.0\less02_resk10.exe
+E:\GB\programming\homework\less02_resk10\bin\Debug\net6.0\less02_resk10.deps.json
+E:\GB\programming\homework\less02_resk10\bin\Debug\net6.0\less02_resk10.runtimeconfig.json
+E:\GB\programming\homework\less02_resk10\bin\Debug\net6.0\less02_resk10.dll
+E:\GB\programming\homework\less02_resk10\bin\Debug\net6.0\less02_resk10.pdb
+E:\GB\programming\homework\less02_resk10\obj\Debug\net6.0\less02_resk10.csproj.AssemblyReference.cache
+E:\GB\programming\homework\less02_resk10\obj\Debug\net6.0\less02_resk10.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB\programming\homework\less02_resk10\obj\Debug\net6.0\less02_resk10.AssemblyInfoInputs.cache
+E:\GB\programming\homework\less02_resk10\obj\Debug\net6.0\less02_resk10.AssemblyInfo.cs
+E:\GB\programming\homework\less02_resk10\obj\Debug\net6.0\less02_resk10.csproj.CoreCompileInputs.cache
+E:\GB\programming\homework\less02_resk10\obj\Debug\net6.0\less02_resk10.dll
+E:\GB\programming\homework\less02_resk10\obj\Debug\net6.0\refint\less02_resk10.dll
+E:\GB\programming\homework\less02_resk10\obj\Debug\net6.0\less02_resk10.pdb
+E:\GB\programming\homework\less02_resk10\obj\Debug\net6.0\less02_resk10.genruntimeconfig.cache
+E:\GB\programming\homework\less02_resk10\obj\Debug\net6.0\ref\less02_resk10.dll
