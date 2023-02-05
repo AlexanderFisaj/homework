@@ -1,0 +1,15 @@
+E:\GB\programming\homework\less03_link\bin\Debug\net6.0\less03_link.exe
+E:\GB\programming\homework\less03_link\bin\Debug\net6.0\less03_link.deps.json
+E:\GB\programming\homework\less03_link\bin\Debug\net6.0\less03_link.runtimeconfig.json
+E:\GB\programming\homework\less03_link\bin\Debug\net6.0\less03_link.dll
+E:\GB\programming\homework\less03_link\bin\Debug\net6.0\less03_link.pdb
+E:\GB\programming\homework\less03_link\obj\Debug\net6.0\less03_link.csproj.AssemblyReference.cache
+E:\GB\programming\homework\less03_link\obj\Debug\net6.0\less03_link.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB\programming\homework\less03_link\obj\Debug\net6.0\less03_link.AssemblyInfoInputs.cache
+E:\GB\programming\homework\less03_link\obj\Debug\net6.0\less03_link.AssemblyInfo.cs
+E:\GB\programming\homework\less03_link\obj\Debug\net6.0\less03_link.csproj.CoreCompileInputs.cache
+E:\GB\programming\homework\less03_link\obj\Debug\net6.0\less03_link.dll
+E:\GB\programming\homework\less03_link\obj\Debug\net6.0\refint\less03_link.dll
+E:\GB\programming\homework\less03_link\obj\Debug\net6.0\less03_link.pdb
+E:\GB\programming\homework\less03_link\obj\Debug\net6.0\less03_link.genruntimeconfig.cache
+E:\GB\programming\homework\less03_link\obj\Debug\net6.0\ref\less03_link.dll

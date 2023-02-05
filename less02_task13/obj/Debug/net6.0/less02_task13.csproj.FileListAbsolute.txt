@@ -1,0 +1,15 @@
+E:\GB\programming\homework\less02_task13\obj\Debug\net6.0\less02_task13.csproj.AssemblyReference.cache
+E:\GB\programming\homework\less02_task13\obj\Debug\net6.0\less02_task13.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB\programming\homework\less02_task13\obj\Debug\net6.0\less02_task13.AssemblyInfoInputs.cache
+E:\GB\programming\homework\less02_task13\obj\Debug\net6.0\less02_task13.AssemblyInfo.cs
+E:\GB\programming\homework\less02_task13\obj\Debug\net6.0\less02_task13.csproj.CoreCompileInputs.cache
+E:\GB\programming\homework\less02_task13\bin\Debug\net6.0\less02_task13.exe
+E:\GB\programming\homework\less02_task13\bin\Debug\net6.0\less02_task13.deps.json
+E:\GB\programming\homework\less02_task13\bin\Debug\net6.0\less02_task13.runtimeconfig.json
+E:\GB\programming\homework\less02_task13\bin\Debug\net6.0\less02_task13.dll
+E:\GB\programming\homework\less02_task13\bin\Debug\net6.0\less02_task13.pdb
+E:\GB\programming\homework\less02_task13\obj\Debug\net6.0\less02_task13.dll
+E:\GB\programming\homework\less02_task13\obj\Debug\net6.0\refint\less02_task13.dll
+E:\GB\programming\homework\less02_task13\obj\Debug\net6.0\less02_task13.pdb
+E:\GB\programming\homework\less02_task13\obj\Debug\net6.0\less02_task13.genruntimeconfig.cache
+E:\GB\programming\homework\less02_task13\obj\Debug\net6.0\ref\less02_task13.dll
