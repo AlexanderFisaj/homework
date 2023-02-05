@@ -48,6 +48,10 @@ while (m != 0)
         next_maxim = maxim;
         maxim = m;
     }
+    else if (m > next_maxim)
+    {
+        next_maxim = m;        
+    }
         Console.Write("Введите следующее число: ");
         m = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine();
