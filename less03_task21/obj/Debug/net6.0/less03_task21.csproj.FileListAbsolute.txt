@@ -1,0 +1,15 @@
+E:\GB\programming\homework\less03_task21\obj\Debug\net6.0\less03_task21.csproj.AssemblyReference.cache
+E:\GB\programming\homework\less03_task21\obj\Debug\net6.0\less03_task21.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB\programming\homework\less03_task21\obj\Debug\net6.0\less03_task21.AssemblyInfoInputs.cache
+E:\GB\programming\homework\less03_task21\obj\Debug\net6.0\less03_task21.AssemblyInfo.cs
+E:\GB\programming\homework\less03_task21\obj\Debug\net6.0\less03_task21.csproj.CoreCompileInputs.cache
+E:\GB\programming\homework\less03_task21\bin\Debug\net6.0\less03_task21.exe
+E:\GB\programming\homework\less03_task21\bin\Debug\net6.0\less03_task21.deps.json
+E:\GB\programming\homework\less03_task21\bin\Debug\net6.0\less03_task21.runtimeconfig.json
+E:\GB\programming\homework\less03_task21\bin\Debug\net6.0\less03_task21.dll
+E:\GB\programming\homework\less03_task21\bin\Debug\net6.0\less03_task21.pdb
+E:\GB\programming\homework\less03_task21\obj\Debug\net6.0\less03_task21.dll
+E:\GB\programming\homework\less03_task21\obj\Debug\net6.0\refint\less03_task21.dll
+E:\GB\programming\homework\less03_task21\obj\Debug\net6.0\less03_task21.pdb
+E:\GB\programming\homework\less03_task21\obj\Debug\net6.0\less03_task21.genruntimeconfig.cache
+E:\GB\programming\homework\less03_task21\obj\Debug\net6.0\ref\less03_task21.dll
