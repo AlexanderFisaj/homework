@@ -1,0 +1,15 @@
+C:\GB\homework\less04_task29\obj\Debug\net6.0\less04_task29.csproj.AssemblyReference.cache
+C:\GB\homework\less04_task29\obj\Debug\net6.0\less04_task29.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\homework\less04_task29\obj\Debug\net6.0\less04_task29.AssemblyInfoInputs.cache
+C:\GB\homework\less04_task29\obj\Debug\net6.0\less04_task29.AssemblyInfo.cs
+C:\GB\homework\less04_task29\obj\Debug\net6.0\less04_task29.csproj.CoreCompileInputs.cache
+C:\GB\homework\less04_task29\bin\Debug\net6.0\less04_task29.exe
+C:\GB\homework\less04_task29\bin\Debug\net6.0\less04_task29.deps.json
+C:\GB\homework\less04_task29\bin\Debug\net6.0\less04_task29.runtimeconfig.json
+C:\GB\homework\less04_task29\bin\Debug\net6.0\less04_task29.dll
+C:\GB\homework\less04_task29\bin\Debug\net6.0\less04_task29.pdb
+C:\GB\homework\less04_task29\obj\Debug\net6.0\less04_task29.dll
+C:\GB\homework\less04_task29\obj\Debug\net6.0\refint\less04_task29.dll
+C:\GB\homework\less04_task29\obj\Debug\net6.0\less04_task29.pdb
+C:\GB\homework\less04_task29\obj\Debug\net6.0\less04_task29.genruntimeconfig.cache
+C:\GB\homework\less04_task29\obj\Debug\net6.0\ref\less04_task29.dll
