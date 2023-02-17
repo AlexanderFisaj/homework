@@ -1,0 +1,15 @@
+C:\GB\Homework\less05_taskLink\bin\Debug\net6.0\less05_taskLink.exe
+C:\GB\Homework\less05_taskLink\bin\Debug\net6.0\less05_taskLink.deps.json
+C:\GB\Homework\less05_taskLink\bin\Debug\net6.0\less05_taskLink.runtimeconfig.json
+C:\GB\Homework\less05_taskLink\bin\Debug\net6.0\less05_taskLink.dll
+C:\GB\Homework\less05_taskLink\bin\Debug\net6.0\less05_taskLink.pdb
+C:\GB\Homework\less05_taskLink\obj\Debug\net6.0\less05_taskLink.csproj.AssemblyReference.cache
+C:\GB\Homework\less05_taskLink\obj\Debug\net6.0\less05_taskLink.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\Homework\less05_taskLink\obj\Debug\net6.0\less05_taskLink.AssemblyInfoInputs.cache
+C:\GB\Homework\less05_taskLink\obj\Debug\net6.0\less05_taskLink.AssemblyInfo.cs
+C:\GB\Homework\less05_taskLink\obj\Debug\net6.0\less05_taskLink.csproj.CoreCompileInputs.cache
+C:\GB\Homework\less05_taskLink\obj\Debug\net6.0\less05_taskLink.dll
+C:\GB\Homework\less05_taskLink\obj\Debug\net6.0\refint\less05_taskLink.dll
+C:\GB\Homework\less05_taskLink\obj\Debug\net6.0\less05_taskLink.pdb
+C:\GB\Homework\less05_taskLink\obj\Debug\net6.0\less05_taskLink.genruntimeconfig.cache
+C:\GB\Homework\less05_taskLink\obj\Debug\net6.0\ref\less05_taskLink.dll
