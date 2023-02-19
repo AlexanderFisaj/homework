@@ -1,0 +1,15 @@
+C:\GB\homework\less06_taskStreugol\obj\Debug\net6.0\less06_taskStreugol.csproj.AssemblyReference.cache
+C:\GB\homework\less06_taskStreugol\obj\Debug\net6.0\less06_taskStreugol.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\homework\less06_taskStreugol\obj\Debug\net6.0\less06_taskStreugol.AssemblyInfoInputs.cache
+C:\GB\homework\less06_taskStreugol\obj\Debug\net6.0\less06_taskStreugol.AssemblyInfo.cs
+C:\GB\homework\less06_taskStreugol\obj\Debug\net6.0\less06_taskStreugol.csproj.CoreCompileInputs.cache
+C:\GB\homework\less06_taskStreugol\bin\Debug\net6.0\less06_taskStreugol.exe
+C:\GB\homework\less06_taskStreugol\bin\Debug\net6.0\less06_taskStreugol.deps.json
+C:\GB\homework\less06_taskStreugol\bin\Debug\net6.0\less06_taskStreugol.runtimeconfig.json
+C:\GB\homework\less06_taskStreugol\bin\Debug\net6.0\less06_taskStreugol.dll
+C:\GB\homework\less06_taskStreugol\bin\Debug\net6.0\less06_taskStreugol.pdb
+C:\GB\homework\less06_taskStreugol\obj\Debug\net6.0\less06_taskStreugol.dll
+C:\GB\homework\less06_taskStreugol\obj\Debug\net6.0\refint\less06_taskStreugol.dll
+C:\GB\homework\less06_taskStreugol\obj\Debug\net6.0\less06_taskStreugol.pdb
+C:\GB\homework\less06_taskStreugol\obj\Debug\net6.0\less06_taskStreugol.genruntimeconfig.cache
+C:\GB\homework\less06_taskStreugol\obj\Debug\net6.0\ref\less06_taskStreugol.dll
